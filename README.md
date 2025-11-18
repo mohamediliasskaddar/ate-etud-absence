@@ -82,7 +82,7 @@ src/main/java/ma/fstt/spring_etud/
    spring.datasource.username=root
    spring.datasource.password=**********
    spring.jpa.hibernate.ddl-auto=update
-# ou dans IntelliJ : clic droit sur SpringEtudApplication → Run
+
 Accéder à l’application
 * Accueil : http://localhost:8080
 * Étudiants : http://localhost:8080/etudiants
